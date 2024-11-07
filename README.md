@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - LinkedIn: www.linkedin.com/in/glenvelis-perez-16546431a
 
 ✨ Fun Facts:
-I love dancing and blueberry ice cream! You can often find me listening to Latin pop while coding and cozying up with some popcorn and a nice movie on the weekends. One of my favorite pastimes is baking a dessert when I'm back home in Central NY with my family.
+I love dancing and blueberry ice cream! You can often find me listening to Latin pop while coding and cozying up with some popcorn and a nice movie on the weekends. One of my favorite pastimes is baking desserts when I'm back home in Central NY with my family.
 
 
   
