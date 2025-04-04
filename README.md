@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - Jupyter Notebook
 - Linux/Unix
 - R
+- SQL
 - Google Colab
 - Git/Github
 
